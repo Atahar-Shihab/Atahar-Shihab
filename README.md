@@ -205,10 +205,17 @@ const AtaharShihab: Developer = {
 
 ---
 
-### 💭 Daily Dev Insight
+### ⚡ Current Tech Radar & Focus
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote Card" />
+
+| Status | Technology / Area | Description & Intent |
+| :--- | :--- | :--- |
+| 🚀 **In Production** | **Next.js 15 & Full-Stack TypeScript** | Building responsive SaaS web apps with Server Actions & App Router |
+| 🤖 **Active Exploration** | **Gemini & LLM Autonomous Agents** | Integrating generative intelligence, function-calling & prompt pipelines |
+| 🔬 **Research & Deep Dive** | **PyTorch Deep Learning** | Experimenting with unsupervised generation, embeddings & audio synthesis |
+| 🔒 **Security & Auth** | **Modern Auth & Payment Systems** | Implementing Better-Auth, OAuth 2.0, and Stripe Checkout integrations |
+
 </div>
 
 ---
