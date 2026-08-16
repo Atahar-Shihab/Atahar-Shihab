@@ -177,22 +177,19 @@ const AtaharShihab: Developer = {
 
 ---
 
-### 📊 GitHub Activity & Real-Time Analytics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Atahar-Shihab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Overview Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Atahar-Shihab&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak Tracker" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Atahar-Shihab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="155" alt="Top Languages Used" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Interactive Yearly Activity Waveform -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atahar-Shihab&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Atahar-Shihab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true&hide=issues,prs,contribs" width="95%" alt="GitHub Overview Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Atahar-Shihab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="95%" alt="Top Languages Used" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
