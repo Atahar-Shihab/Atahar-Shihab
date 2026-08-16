@@ -1,197 +1,203 @@
+<!-- ================================================================= -->
+<!-- 🚀 ATAHAR SHIHAB - GITHUB PROFILE README                         -->
+<!-- ================================================================= -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=220&section=header&text=Hi,%20I'm%20Atahar%20Shihab%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20AI%20Integrator%20•%20Creative%20Builder&descFontSize=20&descAlignY=62&descAlign=50" width="100%"/>
 
-  <p align="center">
-    <a href="https://github.com/Atahar-Shihab">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Developer+(Next.js+%7C+TypeScript+%7C+MERN);🤖+AI+Integrations+%26+Generative+Tech;⚡+Building+Scalable+Web+%26+SaaS+Products;🧠+Exploring+Deep+Learning+%26+PyTorch;💡+Turning+Ideas+into+Production+Code" alt="Typing SVG" />
-    </a>
-  </p>
+  <!-- Dynamic Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,36,49&height=240&section=header&text=Atahar%20Shihab&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20•%20AI%20Integrator%20•%20Creative%20Builder&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
+  <!-- Dynamic Animated Typing Subtitle -->
+  <a href="https://github.com/Atahar-Shihab">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=🚀+Full-Stack+Architect+(Next.js+%7C+TypeScript+%7C+Node.js);🤖+AI+Pioneering+(Google+Gemini+API+%7C+PyTorch);⚡+Crafting+Scalable+SaaS+%26+Production+Platforms;🧠+Deep+Learning+%26+Unsupervised+Neural+Networks;✨+Turning+Complex+Logic+into+Intuitive+Experiences" alt="Typing SVG Banner" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Quick Social & Contact Badges -->
   <p align="center">
     <a href="mailto:shihabatahar@gmail.com">
-      <img src="https://img.shields.io/badge/Email-shihabatahar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-shihabatahar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     <a href="https://github.com/Atahar-Shihab">
-      <img src="https://img.shields.io/badge/GitHub-Atahar--Shihab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-Atahar--Shihab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/atahar-shihab/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Atahar-Shihab&label=Profile%20Views&color=0e7490&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Atahar-Shihab&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="Profile Views" />
   </p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 💻 Developer Identity & Profile
 
-```javascript
-const atahar = {
-  pronouns: "He/Him",
-  code: ["TypeScript", "JavaScript", "Python", "C++"],
-  technologies: {
-    frontend: ["Next.js (App Router)", "React", "Tailwind CSS", "Framer Motion"],
-    backend: ["Node.js", "Express.js", "REST APIs", "Better-Auth", "JWT"],
-    databases: ["MongoDB", "Mongoose", "PostgreSQL", "MySQL"],
-    ai_and_ml: ["Google Gemini API", "PyTorch", "NumPy", "pretty_midi"],
-    tools: ["Git", "GitHub", "Vercel", "Postman", "VS Code", "Linux"]
-  },
-  currentFocus: "Architecting high-performance SaaS applications with modern full-stack frameworks & AI capabilities",
-  funFact: "I love turning complex logic and unsupervised algorithms into clean, accessible web interfaces!"
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  focus: string[];
+  mindset: string;
+}
+
+const AtaharShihab: Developer = {
+  name: "Atahar Shihab",
+  role: "Full-Stack Software Engineer & AI Builder",
+  location: "Dhaka, Bangladesh",
+  focus: [
+    "Next.js (App Router) & Full-Stack TypeScript Ecosystems",
+    "Generative AI Workflows (Gemini API & LLM Agents)",
+    "Deep Neural Networks & PyTorch Unsupervised Models",
+    "High-Concurrency Backend Architecture & REST APIs"
+  ],
+  mindset: "Ship fast, write clean, test thoroughly, and build with purpose."
 };
 ```
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🛠️ Core Tech Stack & Capabilities
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,redux&theme=dark" /> |
-| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" /> |
-| **AI, ML & Data** | <img src="https://skillicons.dev/icons?i=python,pytorch,cpp&theme=dark" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,linux&theme=dark" /> |
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h4>🌐 Frontend Architecture</h4>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,html,css&theme=dark" /><br/><br/>
+      <sub><b>Next.js • React 19 • TypeScript<br/>Tailwind CSS • Framer Motion • TanStack Query</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h4>⚙️ Backend & Systems</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark" /><br/><br/>
+      <sub><b>Node.js • Express.js • MongoDB<br/>PostgreSQL • Better-Auth • JWT • REST APIs</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h4>🤖 AI, Data & Research</h4>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,cpp&theme=dark" /><br/><br/>
+      <sub><b>Google Gemini API • PyTorch<br/>NumPy • Pretty-MIDI • Neural Modeling</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h4>🚀 DevOps & Tooling</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,linux&theme=dark" /><br/><br/>
+      <sub><b>Git • GitHub Actions • Vercel<br/>VS Code • Postman • Linux Environments</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
-
-<details>
-<summary><b>🔥 Detailed Badge Breakdown (Click to expand)</b></summary>
-<br/>
-
-**Languages & Core:**
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-**Frontend & Styling:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
-</p>
-
-**Backend, Auth & Database:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Stripe_API-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white" alt="OAuth"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-</p>
-
-**AI & Machine Learning:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75FF?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-
-</details>
-
 ---
 
-### 🚀 Featured Projects
+### 🌟 Featured Flagship Projects
 
 <table>
-  <!-- Project 1 & 2 -->
+  <!-- Row 1: CareerConnect & PromptHive -->
   <tr>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/Atahar-Shihab/CareerConnect_client">CareerConnect</a></h3>
-      <p><b>AI-Powered Career & Recruitment Ecosystem</b></p>
-      <p>A comprehensive full-stack hiring platform featuring AI resume analysis, personalized job matchmaking, and real-time candidate management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-      <p>
-        🔗 <a href="https://career-connect-client-theta.vercel.app"><b>Live Preview</b></a> | 
-        📦 <a href="https://github.com/Atahar-Shihab/CareerConnect_client"><b>Client Repo</b></a> | 
-        ⚙️ <a href="https://github.com/Atahar-Shihab/CareerConnect_server"><b>Server Repo</b></a>
-      </p>
+      <div align="left">
+        <h3>💼 <a href="https://github.com/Atahar-Shihab/CareerConnect_client">CareerConnect</a></h3>
+        <p><b>AI-Enhanced Career Ecosystem & Hiring Platform</b></p>
+        <p>An intelligent recruitment platform featuring AI-assisted resume matching, smart candidate filtering, and full applicant management.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square&logo=google&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        </p>
+        <p>
+          🌐 <a href="https://career-connect-client-theta.vercel.app"><b>Live Website</b></a> &nbsp;|&nbsp;
+          📦 <a href="https://github.com/Atahar-Shihab/CareerConnect_client"><b>Client Repo</b></a> &nbsp;|&nbsp;
+          ⚙️ <a href="https://github.com/Atahar-Shihab/CareerConnect_server"><b>Server Repo</b></a>
+        </p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Atahar-Shihab/PromptHive_client">PromptHive</a></h3>
-      <p><b>AI Prompt Marketplace & Sharing Platform</b></p>
-      <p>A marketplace designed for creators to discover, monetize, and test fine-tuned AI prompts with seamless Stripe billing and token verification.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Better_Auth-000000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </p>
-      <p>
-        🔗 <a href="https://prompt-hive-client.vercel.app"><b>Live Preview</b></a> | 
-        📦 <a href="https://github.com/Atahar-Shihab/PromptHive_client"><b>Client Repo</b></a> | 
-        ⚙️ <a href="https://github.com/Atahar-Shihab/PromptHive_Server"><b>Server Repo</b></a>
-      </p>
+      <div align="left">
+        <h3>⚡ <a href="https://github.com/Atahar-Shihab/PromptHive_client">PromptHive</a></h3>
+        <p><b>AI Prompt Sharing & Creator Marketplace</b></p>
+        <p>A specialized marketplace platform empowering creators to share, discover, and monetize engineered AI prompts with Stripe payment processing.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Better_Auth-000000?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        </p>
+        <p>
+          🌐 <a href="https://prompt-hive-client.vercel.app"><b>Live Website</b></a> &nbsp;|&nbsp;
+          📦 <a href="https://github.com/Atahar-Shihab/PromptHive_client"><b>Client Repo</b></a> &nbsp;|&nbsp;
+          ⚙️ <a href="https://github.com/Atahar-Shihab/PromptHive_Server"><b>Server Repo</b></a>
+        </p>
+      </div>
     </td>
   </tr>
 
-  <!-- Project 3 & 4 -->
+  <!-- Row 2: ToolNest & Neural Music Generator -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/Atahar-Shihab/ToolNest_Client">ToolNest</a></h3>
-      <p><b>Developer Tools & Subscription Marketplace</b></p>
-      <p>Full-stack marketplace providing authenticated access to developer tools, subscription tier management, and real-time checkout flows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
-      </p>
-      <p>
-        🔗 <a href="https://tool-nest-client.vercel.app"><b>Live Preview</b></a> | 
-        📦 <a href="https://github.com/Atahar-Shihab/ToolNest_Client"><b>Client Repo</b></a> | 
-        ⚙️ <a href="https://github.com/Atahar-Shihab/ToolNest_Server"><b>Server Repo</b></a>
-      </p>
+      <div align="left">
+        <h3>🛠️ <a href="https://github.com/Atahar-Shihab/ToolNest_Client">ToolNest</a></h3>
+        <p><b>Developer Tools & Subscriptions Marketplace</b></p>
+        <p>A full-stack commerce engine for developer utilities featuring subscription checkout flows, protected dashboard routes, and OAuth authentication.</p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Stripe_API-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
+        </p>
+        <p>
+          🌐 <a href="https://tool-nest-client.vercel.app"><b>Live Website</b></a> &nbsp;|&nbsp;
+          📦 <a href="https://github.com/Atahar-Shihab/ToolNest_Client"><b>Client Repo</b></a> &nbsp;|&nbsp;
+          ⚙️ <a href="https://github.com/Atahar-Shihab/ToolNest_Server"><b>Server Repo</b></a>
+        </p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🎵 <a href="https://github.com/Atahar-Shihab/CSE425-project_music-generation-unsupervised">Neural Music Generator</a></h3>
-      <p><b>Unsupervised Deep Learning for Music & Audio</b></p>
-      <p>Deep neural network architecture utilizing PyTorch for unsupervised MIDI music generation, note progression modeling, and interactive web visualization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/pretty_midi-FFD43B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      </p>
-      <p>
-        🧠 <a href="https://github.com/Atahar-Shihab/CSE425-project_music-generation-unsupervised"><b>Model Repo</b></a> | 
-        🎨 <a href="https://github.com/Atahar-Shihab/music-ai-showcase"><b>Showcase UI</b></a>
-      </p>
+      <div align="left">
+        <h3>🎵 <a href="https://github.com/Atahar-Shihab/CSE425-project_music-generation-unsupervised">Neural Music Generator</a></h3>
+        <p><b>Unsupervised Deep Learning for Music Generation</b></p>
+        <p>An experimental neural network project built with PyTorch and MIDI sequencing to synthesize novel harmonic musical sequences without manual supervision.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/pretty_midi-FFD43B?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        </p>
+        <p>
+          🧠 <a href="https://github.com/Atahar-Shihab/CSE425-project_music-generation-unsupervised"><b>Neural Model Repo</b></a> &nbsp;|&nbsp;
+          🎨 <a href="https://github.com/Atahar-Shihab/music-ai-showcase"><b>Showcase UI</b></a>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Real-Time Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Atahar-Shihab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Atahar-Shihab&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Atahar-Shihab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Overview Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Atahar-Shihab&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak Tracker" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Atahar-Shihab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="155" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Atahar-Shihab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="155" alt="Top Languages Used" />
 </div>
 
 <br/>
 
+<div align="center">
+  <!-- Interactive Yearly Activity Waveform -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atahar-Shihab&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+</div>
+
+<br/>
+
+<!-- Interactive Snake Eating Contributions -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atahar-Shihab/Atahar-Shihab/output/github-contribution-grid-snake-dark.svg">
@@ -202,22 +208,34 @@ const atahar = {
 
 ---
 
+### 💭 Daily Dev Insight
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote Card" />
+</div>
+
+---
+
 ### 🤝 Let's Connect & Collaborate!
 
 <div align="center">
+
+  <p><b>Always eager to collaborate on groundbreaking Full-Stack, SaaS, and AI initiatives!</b></p>
+
   <a href="mailto:shihabatahar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-shihabatahar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/atahar-shihab/">
     <img src="https://img.shields.io/badge/LinkedIn-Atahar%20Shihab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Atahar-Shihab">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,36,49&height=110&section=footer" width="100%" alt="Footer Banner"/>
+
 </div>
