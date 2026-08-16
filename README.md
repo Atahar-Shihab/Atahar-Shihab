@@ -182,12 +182,12 @@ const atahar = {
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atahar-Shihab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atahar-Shihab&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Atahar-Shihab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Atahar-Shihab&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atahar-Shihab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="155" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Atahar-Shihab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="155" alt="Top Languages"/>
 </div>
 
 <br/>
