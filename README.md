@@ -14,18 +14,18 @@
     </a>
   </p>
 
-  <!-- Quick Social & Contact Badges -->
+  <!-- Clean Symmetrical Social & Contact Row (Fits on 1 Line) -->
   <p align="center">
     <a href="mailto:shihabatahar@gmail.com">
-      <img src="https://img.shields.io/badge/Email-shihabatahar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/Atahar-Shihab">
-      <img src="https://img.shields.io/badge/GitHub-Atahar--Shihab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/atahar-shihab/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/Atahar-Shihab">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
     &nbsp;
     <a href="https://atahar-shihab-portfolio.vercel.app/">
@@ -33,13 +33,13 @@
     </a>
   </p>
 
-  <!-- Official GitHub Achievements Highlight Bar -->
+  <!-- Compact Symmetrical Achievements Bar (Fits on 1 Line) -->
   <p align="center">
     <img src="https://img.shields.io/badge/Pull%20Shark-Silver%20(x2)%20🦈-38B2AC?style=flat-square&logo=github&logoColor=white" alt="Pull Shark Badge" />
-    <img src="https://img.shields.io/badge/Galaxy%20Brain-Q%26A%20Master%20🧠-805AD5?style=flat-square&logo=github&logoColor=white" alt="Galaxy Brain Badge" />
-    <img src="https://img.shields.io/badge/Quickdraw-Lightning%20Fast%20🤠-D69E2E?style=flat-square&logo=github&logoColor=white" alt="Quickdraw Badge" />
-    <img src="https://img.shields.io/badge/YOLO-Fearless%20Deploy%20⚡-ED64A6?style=flat-square&logo=github&logoColor=white" alt="YOLO Badge" />
-    <img src="https://img.shields.io/badge/Status-GitHub%20PRO%20⭐-ECC94B?style=flat-square&logo=github&logoColor=black" alt="GitHub PRO Badge" />
+    <img src="https://img.shields.io/badge/Galaxy%20Brain-Q%26A%20🧠-805AD5?style=flat-square&logo=github&logoColor=white" alt="Galaxy Brain Badge" />
+    <img src="https://img.shields.io/badge/Quickdraw-Fast%20🤠-D69E2E?style=flat-square&logo=github&logoColor=white" alt="Quickdraw Badge" />
+    <img src="https://img.shields.io/badge/YOLO-Merged%20⚡-ED64A6?style=flat-square&logo=github&logoColor=white" alt="YOLO Badge" />
+    <img src="https://img.shields.io/badge/GitHub-PRO%20⭐-ECC94B?style=flat-square&logo=github&logoColor=black" alt="GitHub PRO Badge" />
   </p>
 
 </div>
@@ -348,19 +348,19 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
   <p><b>Always open to exploring exciting Full-Stack, SaaS, and AI engineering opportunities!</b></p>
 
   <a href="mailto:shihabatahar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shihabatahar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/atahar-shihab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Atahar%20Shihab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
   <a href="https://github.com/Atahar-Shihab">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   &nbsp;
   <a href="https://atahar-shihab-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Badge"/>
   </a>
 
   <br/><br/>
