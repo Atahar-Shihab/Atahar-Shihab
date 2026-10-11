@@ -5,14 +5,14 @@
 <div align="center">
 
   <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,36,49&height=240&section=header&text=Atahar%20Shihab&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20•%20AI%20Integrator%20•%20Docker%20%26%20Prisma%20Builder&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,36,49&height=220&section=header&text=Atahar%20Shihab&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Integrator%20%7C%20Docker%20%26%20Prisma%20Builder&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Animated Typing Subtitle -->
-  <a href="https://github.com/Atahar-Shihab">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=760&lines=🚀+Full-Stack+Engineer+(Next.js+%7C+TypeScript+%7C+Prisma+%7C+Node.js);🐳+Containerized+Architectures+with+Docker+%26+Express;🤖+Generative+AI+Pioneering+(Google+Gemini+API+%7C+PyTorch);⚡+Building+Production-Grade+SaaS+%26+Full-Stack+Platforms;✨+Turning+Complex+Logic+into+Smooth+Interactive+Experiences" alt="Typing SVG Banner" />
-  </a>
-
-  <br/><br/>
+  <p align="center">
+    <a href="https://github.com/Atahar-Shihab">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=Full-Stack+Architect+(Next.js+15+%7C+TypeScript+%7C+Prisma+%7C+Docker);Generative+AI+%26+LLM+Pipelines+(Gemini+API+%7C+PyTorch);Building+Production-Ready+SaaS+%26+Cloud+Platforms;Crafting+Fluid+Interactive+UIs+with+GSAP+%26+Tailwind" alt="Typing SVG Banner" />
+    </a>
+  </p>
 
   <!-- Quick Social & Contact Badges -->
   <p align="center">
@@ -29,17 +29,17 @@
     </a>
     &nbsp;
     <a href="https://atahar-shihab-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Badge"/>
     </a>
   </p>
 
   <!-- Official GitHub Achievements Highlight Bar -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Achievement-Pull%20Shark%20(x2)%20🦈-38B2AC?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain%20🧠-805AD5?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Achievement-Quickdraw%20🤠-D69E2E?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Achievement-YOLO%20⚡-ED64A6?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-GitHub%20PRO%20⭐-ECC94B?style=flat-square&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Pull%20Shark-Silver%20(x2)%20🦈-38B2AC?style=flat-square&logo=github&logoColor=white" alt="Pull Shark Badge" />
+    <img src="https://img.shields.io/badge/Galaxy%20Brain-Q%26A%20Master%20🧠-805AD5?style=flat-square&logo=github&logoColor=white" alt="Galaxy Brain Badge" />
+    <img src="https://img.shields.io/badge/Quickdraw-Lightning%20Fast%20🤠-D69E2E?style=flat-square&logo=github&logoColor=white" alt="Quickdraw Badge" />
+    <img src="https://img.shields.io/badge/YOLO-Fearless%20Deploy%20⚡-ED64A6?style=flat-square&logo=github&logoColor=white" alt="YOLO Badge" />
+    <img src="https://img.shields.io/badge/Status-GitHub%20PRO%20⭐-ECC94B?style=flat-square&logo=github&logoColor=black" alt="GitHub PRO Badge" />
   </p>
 
 </div>
@@ -65,11 +65,11 @@ const AtaharShihab: Developer = {
   credentials: "GitHub Pro • 21+ Merged PRs • 41+ Repositories",
   specialties: [
     "Full-Stack TypeScript & Next.js 15 (App Router, Server Actions)",
-    "Backend Micro-Architectures with Express, Prisma ORM & MongoDB",
+    "Backend Architectures with Express, Prisma ORM, MongoDB & PostgreSQL",
     "Containerization & Microservices with Docker & Docker Compose",
     "Generative AI Workflows (Gemini API & LLM Function-Calling)",
-    "Deep Neural Modeling with PyTorch & Unsupervised Music Generation",
-    "Fluid Interactive Motion with GSAP & Framer Motion"
+    "Deep Neural Modeling with PyTorch & Unsupervised Music Synthesis",
+    "Fluid Micro-Interactions with GSAP & Framer Motion"
   ],
   mindset: "Architect cleanly, ship reliably, and build with purpose."
 };
@@ -191,7 +191,7 @@ const AtaharShihab: Developer = {
     </td>
   </tr>
 
-  <!-- Row 3: BPL-Dream11 & Neural Music Generator -->
+  <!-- Row 3: BPL-Dream11 & English-Janala -->
   <tr>
     <td width="50%" valign="top">
       <div align="left">
@@ -210,17 +210,16 @@ const AtaharShihab: Developer = {
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <h3>🎵 <a href="https://github.com/Atahar-Shihab/CSE425-project_music-generation-unsupervised">Neural Music Generator</a></h3>
-        <p><b>Unsupervised Deep Learning for Music & Audio</b></p>
-        <p>Experimental neural network built with PyTorch and MIDI sequencing to synthesize novel harmonic musical sequences without manual supervision.</p>
+        <h3>📖 <a href="https://github.com/Atahar-Shihab/English-Janala">English Janala</a></h3>
+        <p><b>Interactive Educational Platform & PWA</b></p>
+        <p>Open-source language learning interface designed with custom Figma UI, modular styling, offline manifest readiness, and community contribution guidelines.</p>
         <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-          <img src="https://img.shields.io/badge/pretty_midi-FFD43B?style=flat-square"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
         </p>
         <p>
-          🧠 <a href="https://github.com/Atahar-Shihab/CSE425-project_music-generation-unsupervised"><b>Neural Model Repo</b></a> &nbsp;|&nbsp;
-          🎨 <a href="https://github.com/Atahar-Shihab/music-ai-showcase"><b>Showcase UI</b></a>
+          📦 <a href="https://github.com/Atahar-Shihab/English-Janala"><b>Repository</b></a>
         </p>
       </div>
     </td>
@@ -297,6 +296,6 @@ const AtaharShihab: Developer = {
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,36,49&height=110&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,36,49&height=100&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
