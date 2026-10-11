@@ -120,22 +120,8 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
 *End-to-end applications featuring containerization, relational/NoSQL databases, authentication, and secure billing.*
 
 <table>
+  <!-- Row 1: CareerConnect (1st) & PromptHive (2nd) -->
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/Atahar-Shihab/Dhaka-Tesla-Pool_Project">Dhaka Tesla Pool</a></h3>
-      <p><b>Electric Ride-Pooling Platform & Dockerized Monorepo</b></p>
-      <p>Production MVP ride-pooling app for electric vehicles featuring zone routing, fare splitting, JWT authentication, and full Docker containerization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-      </p>
-      <p>
-        🌐 <a href="https://dhaka-tesla-pool-project.vercel.app"><b>Live Website</b></a> &nbsp;|&nbsp;
-        📦 <a href="https://github.com/Atahar-Shihab/Dhaka-Tesla-Pool_Project"><b>Full Repository</b></a>
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3>💼 <a href="https://github.com/Atahar-Shihab/CareerConnect_client">CareerConnect</a></h3>
       <p><b>AI-Enhanced Career Ecosystem & Hiring Platform</b></p>
@@ -152,8 +138,6 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
         ⚙️ <a href="https://github.com/Atahar-Shihab/CareerConnect_server"><b>Server</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Atahar-Shihab/PromptHive_client">PromptHive</a></h3>
       <p><b>AI Prompt Marketplace & Creator Monetization</b></p>
@@ -168,6 +152,25 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
         🌐 <a href="https://prompt-hive-client.vercel.app"><b>Live Website</b></a> &nbsp;|&nbsp;
         📦 <a href="https://github.com/Atahar-Shihab/PromptHive_client"><b>Client</b></a> &nbsp;|&nbsp;
         ⚙️ <a href="https://github.com/Atahar-Shihab/PromptHive_Server"><b>Server</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2: Dhaka-Tesla-Pool (3rd) & ToolNest (4th) -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/Atahar-Shihab/Dhaka-Tesla-Pool_Project">Dhaka Tesla Pool</a></h3>
+      <p><b>Electric Ride-Pooling Platform & Dockerized Monorepo</b></p>
+      <p>Production MVP ride-pooling app for electric vehicles featuring zone routing, fare splitting, JWT authentication, and full Docker containerization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+      </p>
+      <p>
+        🌐 <a href="https://dhaka-tesla-pool-project.vercel.app"><b>Live Website</b></a> &nbsp;|&nbsp;
+        📦 <a href="https://github.com/Atahar-Shihab/Dhaka-Tesla-Pool_Project"><b>Full Repository</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
