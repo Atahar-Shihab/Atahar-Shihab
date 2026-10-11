@@ -4,13 +4,13 @@
 
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner (Valid XML Verified) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,36,49&height=220&section=header&text=Atahar%20Shihab&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Integrator%20%7C%20Docker%20and%20Prisma%20Builder&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Dynamic Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,36,49&height=220&section=header&text=Atahar%20Shihab&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Integrator%20%7C%20Creative%20Builder&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Animated Typing Subtitle -->
   <p align="center">
     <a href="https://github.com/Atahar-Shihab">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=Full-Stack+Architect+(Next.js+15+%7C+TypeScript+%7C+Prisma+%7C+Docker);Generative+AI+%26+LLM+Pipelines+(Gemini+API+%7C+PyTorch);Building+Production-Ready+SaaS+%26+Cloud+Platforms;Crafting+Fluid+Interactive+UIs+with+GSAP+%26+Tailwind" alt="Typing SVG Banner" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=Full-Stack+Architect+(Next.js+15+%7C+TypeScript+%7C+Node.js);Generative+AI+%26+LLM+Pipelines+(Gemini+API+%7C+PyTorch);Building+Production-Ready+SaaS+%26+Cloud+Platforms;Crafting+Fluid+Interactive+UIs+with+GSAP+%26+Tailwind" alt="Typing SVG Banner" />
     </a>
   </p>
 
@@ -360,7 +360,7 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
   </a>
   &nbsp;
   <a href="https://atahar-shihab-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Badge"/>
   </a>
 
   <br/><br/>
