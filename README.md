@@ -62,7 +62,7 @@ const AtaharShihab: Developer = {
   name: "Atahar Shihab",
   role: "Full-Stack Software Engineer & AI System Builder",
   location: "Dhaka, Bangladesh",
-  credentials: "GitHub Pro • 21+ Merged PRs • 41+ Repositories",
+  credentials: "GitHub Pro • 50+ Merged PRs • 40+ Repositories • 1,300+ Contributions",
   specialties: [
     "Full-Stack TypeScript & Next.js 15 (App Router, Server Actions)",
     "Backend Architectures with Express, Prisma ORM, MongoDB & PostgreSQL",
@@ -303,10 +303,14 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Atahar-Shihab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true&hide=issues,prs,contribs" width="95%" alt="GitHub Overview Stats" />
+        <a href="https://github.com/Atahar-Shihab">
+          <img src="https://github-readme-stats.vercel.app/api?username=Atahar-Shihab&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" width="100%" alt="GitHub Overview Stats" />
+        </a>
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Atahar-Shihab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="95%" alt="Top Languages Used" />
+        <a href="https://github.com/Atahar-Shihab">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atahar-Shihab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Top Languages Used" />
+        </a>
       </td>
     </tr>
   </table>
@@ -331,8 +335,7 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
 
 | Status | Domain / Technology | Focus & Production Objective |
 | :--- | :--- | :--- |
-| 🚀 **In Production** | **Docker & Prisma Monorepos** | Building containerized microservices and resilient relational databases |
-| ⚡ **Active Shipping** | **Next.js 15 & Full-Stack TypeScript** | Deploying reactive SaaS applications with Server Actions & Tailwind |
+| 🚀 **In Production** | **Next.js 15 & Full-Stack TypeScript** | Deploying reactive SaaS applications with Server Actions & Tailwind |
 | 🤖 **AI Exploration** | **Gemini & LLM Autonomous Agents** | Integrating function calling, multimodal prompt pipelines & embeddings |
 | 🔬 **Deep Learning** | **PyTorch & Audio Processing** | Researching unsupervised sequence generation and musical neural synthesis |
 | 🔒 **Security & Auth** | **Modern Authentication & Billing** | Implementing Better-Auth, OAuth 2.0, JWT, and Stripe checkout pipelines |
