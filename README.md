@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,36,49&height=220&section=header&text=Atahar%20Shihab&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Integrator%20%7C%20Creative%20Builder&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,36,49&height=220&section=header&text=Atahar%20Shihab&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Integrator%20%7C%20Creative%20Builder&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Animated Typing Subtitle -->
   <p align="center">
@@ -16,30 +16,12 @@
 
   <!-- Clean Symmetrical Social & Contact Row (Fits on 1 Line) -->
   <p align="center">
-    <a href="mailto:shihabatahar@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/atahar-shihab/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/Atahar-Shihab">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-    &nbsp;
-    <a href="https://atahar-shihab-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Badge"/>
-    </a>
+    <a href="mailto:shihabatahar@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/atahar-shihab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;&nbsp;<a href="https://github.com/Atahar-Shihab"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>&nbsp;&nbsp;<a href="https://atahar-shihab-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Badge"/></a>
   </p>
 
   <!-- Compact Symmetrical Achievements Bar (Fits on 1 Line) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Pull%20Shark-Silver%20(x2)%20🦈-38B2AC?style=flat-square&logo=github&logoColor=white" alt="Pull Shark Badge" />
-    <img src="https://img.shields.io/badge/Galaxy%20Brain-Q%26A%20🧠-805AD5?style=flat-square&logo=github&logoColor=white" alt="Galaxy Brain Badge" />
-    <img src="https://img.shields.io/badge/Quickdraw-Fast%20🤠-D69E2E?style=flat-square&logo=github&logoColor=white" alt="Quickdraw Badge" />
-    <img src="https://img.shields.io/badge/YOLO-Merged%20⚡-ED64A6?style=flat-square&logo=github&logoColor=white" alt="YOLO Badge" />
-    <img src="https://img.shields.io/badge/GitHub-PRO%20⭐-ECC94B?style=flat-square&logo=github&logoColor=black" alt="GitHub PRO Badge" />
+    <a href="https://github.com/Atahar-Shihab?tab=achievements"><img src="https://img.shields.io/badge/Pull%20Shark-Silver%20(x2)%20🦈-38B2AC?style=flat-square&logo=github&logoColor=white" alt="Pull Shark Badge" /></a>&nbsp;<a href="https://github.com/Atahar-Shihab?tab=achievements"><img src="https://img.shields.io/badge/Galaxy%20Brain-Q%26A%20🧠-805AD5?style=flat-square&logo=github&logoColor=white" alt="Galaxy Brain Badge" /></a>&nbsp;<a href="https://github.com/Atahar-Shihab?tab=achievements"><img src="https://img.shields.io/badge/Quickdraw-Fast%20🤠-D69E2E?style=flat-square&logo=github&logoColor=white" alt="Quickdraw Badge" /></a>&nbsp;<a href="https://github.com/Atahar-Shihab?tab=achievements"><img src="https://img.shields.io/badge/YOLO-Merged%20⚡-ED64A6?style=flat-square&logo=github&logoColor=white" alt="YOLO Badge" /></a>&nbsp;<a href="https://github.com/Atahar-Shihab?tab=achievements"><img src="https://img.shields.io/badge/GitHub-PRO%20⭐-ECC94B?style=flat-square&logo=github&logoColor=black" alt="GitHub PRO Badge" /></a>
   </p>
 
 </div>
@@ -230,16 +212,17 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏏 <a href="https://github.com/Atahar-Shihab/BPL-Dream11-project">BPL Dream11 Fantasy</a></h3>
+      <h3>🏏 <a href="https://github.com/Atahar-Shihab/BPL-Dream-11">BPL Dream11 Fantasy</a></h3>
       <p><b>Interactive Sports Squad Builder & Budget State Engine</b></p>
-      <p>Dynamic fantasy cricket application featuring player coin-budget management, real-time squad validation, active toggle views, and toast feedback.</p>
+      <p>Dynamic fantasy cricket application featuring Three.js 3D graphics, player coin-budget management, real-time squad validation, and interactive celebration UI.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
       </p>
       <p>
-        📦 <a href="https://github.com/Atahar-Shihab/BPL-Dream11-project"><b>Repository</b></a>
+        🌐 <a href="https://atahar-shihab.github.io/BPL-Dream-11/"><b>Live Website</b></a> &nbsp;|&nbsp;
+        📦 <a href="https://github.com/Atahar-Shihab/BPL-Dream-11"><b>Repository</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -252,6 +235,7 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
       </p>
       <p>
+        🌐 <a href="https://atahar-shihab.github.io/English-Janala/"><b>Live Website</b></a> &nbsp;|&nbsp;
         📦 <a href="https://github.com/Atahar-Shihab/English-Janala"><b>Repository</b></a>
       </p>
     </td>
@@ -260,11 +244,27 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
 
 <br/>
 
-#### 🔬 3. AI, Deep Learning & University Research
-*Academic and experimental projects exploring unsupervised neural networks, MIDI sequence synthesis, and computer graphics.*
+#### 🔬 3. AI, Deep Learning & Systems Research
+*Academic and experimental projects exploring multi-tenant semantic routers, unsupervised neural networks, MIDI synthesis, and computer graphics.*
 
 <table>
+  <!-- Row 1: AegisGateway (AI Systems) & Neural Music Generator (Audio AI) -->
   <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Atahar-Shihab/Aegisophon">AegisGateway (Aegisophon)</a></h3>
+      <p><b>Enterprise AI Semantic Router & Circuit-Breaker Mesh</b></p>
+      <p>High-resilience gateway platform featuring sub-5ms semantic LLM routing, in-memory finite state machine circuit breaker, and real-time chaos testing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vitest-100%25_Pass-10B981?style=flat-square&logo=vitest&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <p>
+        📦 <a href="https://github.com/Atahar-Shihab/Aegisophon"><b>Core Repository</b></a> &nbsp;|&nbsp;
+        📊 <b>45/45 Unit Tests Passed</b>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3>🎵 <a href="https://github.com/Atahar-Shihab/CSE425-project_music-generation-unsupervised">Neural Music Generator (CSE425)</a></h3>
       <p><b>Unsupervised Deep Learning for Music & Audio Progression</b></p>
@@ -279,10 +279,14 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
         🎨 <a href="https://github.com/Atahar-Shihab/music-ai-showcase"><b>Showcase UI</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/Atahar-Shihab/CSE423_Project">Computer Graphics Simulation (CSE423)</a></h3>
+  </tr>
+
+  <!-- Row 2: Computer Graphics Simulation Engine -->
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎮 <a href="https://github.com/Atahar-Shihab/CSE423_Project">Computer Graphics Simulation Engine (CSE423)</a></h3>
       <p><b>Real-Time 3D Rendering & Geometric Transformation Engine</b></p>
-      <p>University graphics project exploring interactive 3D rendering pipelines, coordinate transformations, collision detection, and custom shader logic.</p>
+      <p>Interactive rendering simulation exploring 3D coordinate transformations, collision detection, camera projections, and custom OpenGL shader routines.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/>
@@ -314,6 +318,12 @@ Categorized showcase highlighting real-world engineering across **Full-Stack Sys
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <a href="https://github.com/Atahar-Shihab">
+    <img src="https://streak-stats.demolab.com/?user=Atahar-Shihab&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 <br/>
